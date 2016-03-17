@@ -11,5 +11,6 @@
     <string name="confirm_password">Confirm Password</string>
     <string name="confirm_password_hint">Please Confirm Your Password</string>
     <string name="button_cancel">Cancel</string>
+    <string name="random">Random</string>
 
 </resources>
